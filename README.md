@@ -23,9 +23,8 @@
 
 - 💬 Ask me about **Python, HTML, CSS, JS, Machine Learning, AI, Data Analytics, Data Science**
 
-- 📫 How to reach me **paradkarbhawna5@gmail.com**
+- 📧 How to reach me **paradkarbhawna5@gmail.com**
 - Portfolio : [BhawnaUmeshParadkar.github.io](https://BhawnaUmeshParadkar.github.io/Portfolio/)
-- Website: [Click here to visit](https://www.linkedin.com/in/bhawnauparadkar/)
 
 
 
