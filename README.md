@@ -23,11 +23,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=BhawnaUmeshParadkar&label=Profile%20views&color=0e75b6&style=flat" alt="BhawnaUmeshParadkar" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BhawnaUmeshParadkar" alt="BhawnaUmeshParadkar" /></a> </p>
-<hr>
-<p align="center"> <a href="https://www.linkedin.com/in/bhawnauparadkar/" target="blank"><img src="https://img.shields.io/twitter/follow/BhawnaUmeshParadkar?logo=twitter&style=for-the-badge" alt="BhawnaUmeshParadkar" /></a> </p>
-
-
 - 🌱 I’m currently practicing **Data Analysis**
 
 - 💬 Ask me about **Python, HTML, CSS, JS, Machine Learning, AI, Data Analytics, Data Science**
