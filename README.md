@@ -33,9 +33,4 @@
 
 
 
-<p>&nbsp;
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BhawnaUmeshParadkar&show_icons=true&locale=en&layout=compact" alt="BhawnaUmeshParadkar" /></div> </p>
-<div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BhawnaUmeshParadkar&show_icons=true&locale=en" alt="BhawnaUmeshParadkar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BhawnaUmeshParadkar&theme=tokyonight&hide_border=true" alt="BhawnaUmeshParadkar" /></p>
